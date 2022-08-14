@@ -70,7 +70,7 @@ email: 'ziqian.research@gmail.com'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Student
+  - Grad Students
 ---
 
 [Ziqian Xia](https://ziqian-xia.tech/) is a graduate student at Tongji University, China. His research interests include environmental behaviour, climate change and research synthesis. He serves as the Handling Editor of [PROCEED](https://www.proceedevidence.info/user/team#) affiliated with [Environmental Evidence Journal](https://environmentalevidencejournal.biomedcentral.com/).
