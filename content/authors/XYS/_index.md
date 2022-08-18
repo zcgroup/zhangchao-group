@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course: Master in Applied Economics, 2022-2024
+    - course: Master in Applied Economics
       institution: Tongji university
       year: 2021-2024
     - course: Bachelor in Applied Economics

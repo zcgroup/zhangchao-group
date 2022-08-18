@@ -8,32 +8,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Tongji University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include energy and environmental policy issues by using system analysis methods and tools of industrial ecology, with focuses on energy-water nexus, socioeconomic metabolism and resource efficiency.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Energy and environmental policy
+  - Energy-water nexus
+  - Resource efficiency
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Engineering (in environmental management and policy), School of Environment
+      institution: Tsinghua University
+      year: 2017
+    - course: Bachelor in Engineering, School of Environment
+      institution: Tsinghua University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,6 +67,8 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chao Zhang is an associate professor at School of Economics and Management, Tongji University, and an adjunct professor at UN Environment-Tongji Institute of Environment for Sustainable Development. He obtained his doctorate in Environmental Science and Engineering from School of Environment at Tsinghua University, and conducted postdoctoral research in the Sustainability Science Program at Harvard Kennedy School of Government.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He is interested in studying energy and environmental policy issues by using system analysis methods and tools of industrial ecology, with focuses on energy-water nexus, socioeconomic metabolism and resource efficiency. His work has been published in *Nature Energy*, *Applied Energy*, *Environmental Science & Technology*, *Ecological Economics*, *Journal of Cleaner Production*, *Resources, Conservation & Recycling*, etc..
+
+As ISEP, Chao seeks to contribute to understand cross-sectoral effects of policy interventions on energy-water nexus in developing countries, where both energy and water systems are under rapid transitions.
