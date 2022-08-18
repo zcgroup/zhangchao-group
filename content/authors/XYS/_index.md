@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'ysxia1999@126.com'
+    link: 'mailto:ysxia1999@126.com'
   - icon: google-scholar
     icon_pack: ai
     link:  https://www.scopus.com/authid/detail.uri?authorId=57216367070
