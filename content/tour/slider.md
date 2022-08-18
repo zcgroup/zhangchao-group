@@ -23,22 +23,38 @@ content:
         color: '#666'
         brightness: 0.7
         media: coders.jpg
-    - title: Lunch & Learn ☕️
+    - title: Lunch ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
+        media: meal.jpg
+    - title: Learn & Growth
+      content: ''
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: speak.jpg
+    - title: Inspiring and creative
+      content: ''
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
         media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: World-Class Sustainability Lab
+      content: 'Designing for a sustainable future!'
       align: right
       background:
         position: center
         color: '#333'
         brightness: 0.5
-        media: welcome.jpg
+        media: welcome.jpeg
       link:
         icon: graduation-cap
         icon_pack: fas
