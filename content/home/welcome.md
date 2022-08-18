@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: |
   Chao Zhang  
   Research Group
-hero_media: welcome.jpeg
+hero_media: guoli2.jpeg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
