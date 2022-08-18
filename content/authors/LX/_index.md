@@ -22,7 +22,7 @@ bio: My research interests include carbon cycle analysis.
 
 
 education:
- 
+  courses:
     - course: Bachelor of Science in Chemistry
       institution: Fudan university
       year: 2017
@@ -45,7 +45,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'xling@tongji.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
