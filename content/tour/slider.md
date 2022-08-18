@@ -38,7 +38,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: speak.jpg
+        media: speak.jpeg
     - title: Inspiring and creative
       content: ''
       align: left
@@ -46,7 +46,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
+        media: contact.png
     - title: World-Class Sustainability Lab
       content: 'Designing for a sustainable future!'
       align: right
