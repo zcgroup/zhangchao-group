@@ -30,7 +30,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.png
+        media: contact.jpg
     - title: World-Class Semiconductor Lab
       content: 'Just opened last month!'
       align: right
@@ -38,7 +38,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: welcome.jpeg
+        media: welcome.jpg
       link:
         icon: graduation-cap
         icon_pack: fas
