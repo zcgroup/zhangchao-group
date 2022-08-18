@@ -23,8 +23,16 @@ content:
         color: '#666'
         brightness: 0.7
         media: coders.jpg
-    - title: World-Class Sustainability Lab
-      content: 'Designing for a sustainable future!'
+    - title: Lunch & Learn ☕️
+      content: 'Share your knowledge with the group and explore exciting new topics together!'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: contact.png
+    - title: World-Class Semiconductor Lab
+      content: 'Just opened last month!'
       align: right
       background:
         position: center
