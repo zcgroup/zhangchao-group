@@ -61,6 +61,6 @@ user_groups:
   - Researchers
 ---
 
-Chao Zhang is an associate professor at School of Economics and Management, Tongji University, and an adjunct professor at UN Environment-Tongji Institute of Environment for Sustainable Development. He obtained his doctorate in Environmental Science and Engineering from School of Environment at Tsinghua University, and conducted postdoctoral research in the Sustainability Science Program at Harvard Kennedy School of Government.
+Chao Zhang is a full professor at School of Economics and Management, Tongji University, and an adjunct professor at UN Environment-Tongji Institute of Environment for Sustainable Development. He obtained his doctorate in Environmental Science and Engineering from School of Environment at Tsinghua University, and conducted postdoctoral research in the Sustainability Science Program at Harvard Kennedy School of Government.
 
 He is interested in studying energy and environmental policy issues by using system analysis methods and tools of industrial ecology, with focuses on energy-water nexus, socioeconomic metabolism and resource efficiency. His work has been published in *Nature Energy*, *Applied Energy*, *Environmental Science & Technology*, *Ecological Economics*, *Journal of Cleaner Production*, *Resources, Conservation & Recycling*, etc..

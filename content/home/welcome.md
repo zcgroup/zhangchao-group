@@ -18,4 +18,4 @@ design:
   css_class:
 ---
 
-Chao Zhang is an associate professor at School of Economics and Management, Tongji University, and an adjunct professor at UN Environment-Tongji Institute of Environment for Sustainable Development. He obtained his doctorate in Environmental Science and Engineering from School of Environment at Tsinghua University, and conducted postdoctoral research in the Sustainability Science Program at Harvard Kennedy School of Government. In Chao Zhang Research Group, our research interests includes Sustainability Science, Industrial Ecology and Ecological Economics.
+Chao Zhang is a full professor at School of Economics and Management, Tongji University, and an adjunct professor at UN Environment-Tongji Institute of Environment for Sustainable Development. He obtained his doctorate in Environmental Science and Engineering from School of Environment at Tsinghua University, and conducted postdoctoral research in the Sustainability Science Program at Harvard Kennedy School of Government. In Chao Zhang Research Group, our research interests includes Sustainability Science, Industrial Ecology and Ecological Economics.
