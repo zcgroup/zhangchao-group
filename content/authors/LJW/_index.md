@@ -29,7 +29,7 @@ education:
       institution: Tongji university
       year: 2018-2021
     - course: 管理学学士学位
-      institution: Shanghai Lixin University of Accounting and Finance
+      institution: Zhongnan University of Economics and Law
       year: 2014-2018
 
 
