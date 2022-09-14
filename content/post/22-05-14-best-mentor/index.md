@@ -13,8 +13,11 @@ date: 2022-05-14
 
 
 参考链接
-导师介绍：
-https://mp.weixin.qq.com/s/kJJtCtUn4YAUr8jNhOZmIg
-评选结果公示：
+
+导师介绍:  
+https://mp.weixin.qq.com/s/kJJtCtUn4YAUr8jNhOZmIg  
+
+
+评选结果公示：  
 https://mp.weixin.qq.com/s/f2ihvfqeOVO_TcjJyJaRdA
 
