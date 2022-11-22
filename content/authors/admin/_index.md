@@ -25,10 +25,10 @@ education:
   courses:
     - course: PhD in Engineering (in environmental management and policy), School of Environment
       institution: Tsinghua University
-      year: 2017
+      year: 2012
     - course: Bachelor in Engineering, School of Environment
       institution: Tsinghua University
-      year: 2012
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
