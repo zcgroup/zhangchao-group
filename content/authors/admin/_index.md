@@ -21,14 +21,6 @@ interests:
   - Energy-water nexus
   - Resource efficiency
 
-education:
-  courses:
-    - course: PhD in Engineering (in environmental management and policy), School of Environment
-      institution: Tsinghua University
-      year: 2012
-    - course: Bachelor in Engineering, School of Environment
-      institution: Tsinghua University
-      year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
