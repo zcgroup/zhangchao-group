@@ -10,6 +10,8 @@ view: 2
 
 <!--我全部使用的是APA格式，**加粗老师名称**、<u>下划线同学名称</u>、*斜体期刊名称*、[Click Here](链接)是链接网页。链接我没有放PDF放的是能找到PDF的网页但是不是一个来源可能会有点乱-->
 
+<u>Xia, Z.</u>, Ye, J., Zhou, Y., Howe, P. D., Xu, M., Tan, X., ... & **Zhang, C.** (2022). A Meta-analysis of the relationship between Climate Change Experience and Climate Change Perception. *Environmental Research Communications*. [Click Here](https://iopscience.iop.org/article/10.1088/2515-7620/ac9bd9/meta)
+
 **Zhang, C.**, <u>Xie, L.</u>, Qiu, Y. L., & Wang, S. (2022). Learning-by-Manufacturing and Learning-by-Operating mechanisms drive energy conservation and emission reduction in China's coal power industry. *Resources, Conservation and Recycling*, 186, 106532.[Click Here](https://www.sciencedirect.com/science/article/abs/pii/S0921344922003688)
 
 Liu, Y., Gu, W., Liu, B., **Zhang, C.**, Wang, C., Yang, Y., & Zhuang, M. (2022). Closing Greenhouse Gas Emission Gaps of Staple Crops in China. *Environmental Science & Technology*, 56(13), 9302-9311.[Click Here](https://pubs.acs.org/doi/abs/10.1021/acs.est.2c01978)
