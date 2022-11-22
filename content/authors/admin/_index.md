@@ -28,7 +28,7 @@ education:
       year: 2012
     - course: Bachelor in Engineering, School of Environment
       institution: Tsinghua University
-      year: 2008
+      year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
