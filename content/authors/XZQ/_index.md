@@ -18,7 +18,8 @@ organizations:
     url: 'https://en.tongji.edu.cn/index.htm'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in research on environmental behaviour and climate change mitigation/adaptation.
+bio: I am interested in research on environmental behaviour and climate change mitigation/adaptation. 
+Visit my own website here (https://ziqian-xia.tech/).
 
 interests:
   - Environmental Behaviour
