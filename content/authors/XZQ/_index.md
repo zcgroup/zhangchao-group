@@ -73,4 +73,4 @@ user_groups:
   - Grad Students
 ---
 
-[Ziqian Xia](https://ziqian-xia.tech/) is a graduate student at Tongji University, China. His research interests include environmental behaviour, climate change and research synthesis. He serves as the Handling Editor of [PROCEED](https://www.proceedevidence.info/user/team#) affiliated with [Environmental Evidence Journal](https://environmentalevidencejournal.biomedcentral.com/). Visit my own website here (https://ziqian-xia.tech/).
+[Ziqian Xia](https://ziqian-xia.tech/) is a graduate student at Tongji University, China. His research interests include environmental behaviour, climate change and research synthesis. He serves as the Handling Editor of [PROCEED](https://www.proceedevidence.info/user/team#) affiliated with [Environmental Evidence Journal](https://environmentalevidencejournal.biomedcentral.com/). Visit my own website here (ziqian-xia.tech).
